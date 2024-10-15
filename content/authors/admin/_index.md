@@ -19,12 +19,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: AI & Data Science student
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
+ 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
@@ -36,33 +31,22 @@ profiles:
   - icon: brands/github
     url: https://github.com/Niyaaea
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: www.linkedin.com/in/niyaaea
+
 
 interests:
   - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Cloud Computing
 
 education:
   - area: BTech Artificial Intelligence
     institution: Rajagiri School of Engineering and Technology, Kakkanad
-    date_start: 2016-01-01
+    date_start: 2021-01-01
     date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    
+  
+
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
