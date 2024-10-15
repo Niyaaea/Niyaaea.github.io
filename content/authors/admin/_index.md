@@ -1,10 +1,11 @@
 ---
 # Display name
-title: NIYA POULOSE
+title: Niya Poulose
+
 
 
 # Full name (for SEO)
-first_name: Niya 
+first_name: Niya
 last_name: Poulose
 
 # Status emoji
@@ -18,14 +19,15 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: AI & Data Science student
- 
+role: AI & DS student
+
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:niyapoulose06@gmail.com'
+    url: 'mailto:niyapoulose06@.com'
     label: E-mail Me
+
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
@@ -33,18 +35,18 @@ profiles:
   - icon: brands/linkedin
     url: www.linkedin.com/in/niyaaea
 
-
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
   - Cloud Computing
+  - Data Science
+  - Web development
 
 education:
-  - area: BTech Artificial Intelligence
-    institution: Rajagiri School of Engineering and Technology, Kakkanad
-    date_start: 2021-01-01
+  - area: Btech in Artificial Intelligence & Data Science
+    institution: Rajagiri School of Engineering and Technology
+    date_start: 2016-01-01
     date_end: 2020-12-31
-        summary: |
+    summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
@@ -55,10 +57,6 @@ education:
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
-  
-    
-  
-
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
